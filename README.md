@@ -6,7 +6,7 @@ This repository includes codes associated with University of Hawaii - NOAA Coral
 
 Shiny application code and data can be found here: https://github.com/jms5151/uh-noaa-shiny-app.<br>
 
-This code supports for the following peer-reviewed paper: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2961
+This code supports for the following peer-reviewed paper: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2961.<br>
 Code, data, and model objects are available at https://zenodo.org/doi/10.5281/zenodo.10530327. 
 
 
